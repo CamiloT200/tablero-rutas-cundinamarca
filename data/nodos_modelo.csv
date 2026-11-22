@@ -1,0 +1,33 @@
+id,nombre,lat,lon,municipio_clave,municipio,provincia,tipo_nodo,estrellas,n_resenas,estrellas_bayes,categoria_maps,cluster,segmento,satisfaccion,visita_min,entrada_cop
+CENTRO_ZIPAQUIRA,Casco urbano de Zipaquirá,5.0221,-74.0058,ZIPAQUIRA,Zipaquirá,Sabana Centro,salida,,,,,,,0.0,0,0
+CENTRO_NEMOCON,Casco urbano de Nemocón,5.0679,-73.8781,NEMOCON,Nemocón,Sabana Centro,salida,,,,,,,0.0,0,0
+CENTRO_LAMESA,Casco urbano de La Mesa,4.6304,-74.4627,LA MESA,La Mesa,Tequendama,salida,,,,,,,0.0,0,0
+L0019,Catedral De Sal de Zipaquirá,5.0187,-74.009917,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.7,24334.0,4.699369418217081,Atracción turística,0.0,"Populares, en el centro",0.9153681572134793,150,95000
+L0083,Mina De Sal De Nemocón,5.063949,-73.8747495,NEMOCON,Nemocón,Sabana Centro,atractivo,4.8,11786.0,4.798278463484733,Atracción turística,4.0,Populares,0.6959474798540571,120,50000
+L0128,Plaza de la Independencia,5.0243267,-74.0052595,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.5,8064.0,4.499337428371371,Atracción turística,5.0,"Muy populares, en el centro, económicos",0.42841443120176975,20,0
+L0130,Parque Principal Zipaquira,5.0234233,-74.0039445,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.6,5657.0,4.598181863291626,Atracción turística,5.0,"Muy populares, en el centro, económicos",0.39960334113920537,30,0
+L0162,Parque La Esperanza,5.0206618,-74.0002254,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.3,4243.0,4.301077077522783,Parque local,5.0,"Muy populares, en el centro, económicos",0.2399226362988009,40,0
+L0003,Parque Principal La Mesa,4.6321652,-74.4631484,LA MESA,La Mesa,Tequendama,atractivo,4.4,4027.0,4.399907749277732,Parque,5.0,"Muy populares, en el centro, económicos",0.2681371553674816,30,0
+L0084,Parque Principal de Nemocón,5.066504,-73.8769184,NEMOCON,Nemocón,Sabana Centro,atractivo,4.5,3034.0,4.498256774904446,Parque,5.0,"Muy populares, en el centro, económicos",0.2624561075505531,30,0
+L0164,Parque Villaveces,5.0212581,-74.0063496,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.6,1993.0,4.5949211423422955,Atracción turística,5.0,"Muy populares, en el centro, económicos",0.23638786897021008,40,0
+L0002,Macadamia Bosque Aventura,4.6450008,-74.4488814,LA MESA,La Mesa,Tequendama,atractivo,4.5,1885.0,4.49722165054538,Parque ecológico,4.0,Populares,0.20662684942136583,210,80000
+L0163,Parque La Floresta,5.0265898,-74.0022582,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.2,1419.0,4.206551323216685,Parque,5.0,"Muy populares, en el centro, económicos",0.11921638093766959,40,0
+L0001,Salto de las Monjas,4.6902124,-74.4404344,LA MESA,La Mesa,Tequendama,atractivo,4.7,1171.0,4.687406956433505,Atracción turística,1.0,"Poco conocidos, alejados del casco urbano",0.19855637032241502,150,10000
+L0007,Parque Makute,4.6484169,-74.438986,LA MESA,La Mesa,Tequendama,atractivo,4.6,650.0,4.585176991150442,Parque,4.0,Populares,0.13363560031125513,180,60000
+L0006,Agroparque Sabio Mutis UNIMINUTO,4.625276,-74.429704,LA MESA,La Mesa,Tequendama,atractivo,4.6,633.0,4.584808043638813,Atracción turística,4.0,Populares,0.13182556332335504,120,20000
+L0161,PARQUE TERRAPLÉN,5.0275306,-74.0069449,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.1,538.0,4.124870567696105,Parque,5.0,"Muy populares, en el centro, económicos",0.06301466269550944,40,0
+L0077,Desierto de Checua Oficial,5.1325888,-73.8672289,NEMOCON,Nemocón,Sabana Centro,atractivo,4.6,512.0,4.581537177589519,Atracción turística,1.0,"Poco conocidos, alejados del casco urbano",0.11815255266968212,180,40000
+L0160,Parque La Esmeralda,5.0288051,-73.9996268,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.1,502.0,4.126492561241503,Parque,5.0,"Muy populares, en el centro, económicos",0.061069203613928355,40,0
+L0126,Plaza Ceremonial del Minero,5.0189343,-74.0093615,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.8,408.0,4.755510685164432,Plaza,5.0,"Muy populares, en el centro, económicos",0.12474768699462793,20,0
+L0182,Villas Del Nuevo Siglo,4.6591615,-74.4688068,LA MESA,La Mesa,Tequendama,atractivo,4.0,226.0,4.071101064511992,Parque,2.0,"Poco conocidos, económicos",0.03640793050612628,60,0
+L0129,Plaza De Los Comuneros - Zipaquira Cundinamarca,5.0233993,-74.0039988,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.6,192.0,4.557123528121114,Atracción turística,5.0,"Muy populares, en el centro, económicos",0.07049780922719644,20,0
+L0009,San Albertín - Safari,4.648081,-74.5045134,LA MESA,La Mesa,Tequendama,atractivo,3.7,162.0,3.863320253798631,Parque acuático,1.0,"Poco conocidos, alejados del casco urbano",0.01631851936098846,180,40000
+L0159,Ecoparque Nukasa,5.027799,-74.014065,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.3,113.0,4.328367446658342,Atracción turística,2.0,"Poco conocidos, económicos",0.040745055721372346,90,15000
+L0079,PARQUE DE LA SIETE LEYENDAS,5.0667655,-73.8760889,NEMOCON,Nemocón,Sabana Centro,atractivo,4.5,84.0,4.459879804517237,Atracción turística,2.0,"Poco conocidos, económicos",0.04174123049679435,40,0
+L0094,Museo de Sal,5.0664919,-73.8765458,NEMOCON,Nemocón,Sabana Centro,atractivo,4.4,71.0,4.396891684341404,Atracción turística,2.0,"Poco conocidos, económicos",0.035464318988325166,45,10000
+L0012,Ecoparque el mangal,4.6399312,-74.5308678,LA MESA,La Mesa,Tequendama,atractivo,4.0,70.0,4.163532448377581,Atracción de feria,1.0,"Poco conocidos, alejados del casco urbano",0.02450428683757664,90,15000
+L0076,Parque Lagos de Marsella,4.6361121,-74.4525757,LA MESA,La Mesa,Tequendama,atractivo,4.5,39.0,4.439594312419211,Reserva de fauna salvaje,2.0,"Poco conocidos, económicos",0.027746975827736522,40,10000
+L0008,Mirador juan Díaz,4.6422036,-74.4979427,LA MESA,La Mesa,Tequendama,atractivo,4.1,32.0,4.278340168357436,Atracción turística,2.0,"Poco conocidos, económicos",0.020130276175369128,30,0
+L0010,Mirador Rincón Santo,4.6328353,-74.4636294,LA MESA,La Mesa,Tequendama,atractivo,4.4,27.0,4.395115503965062,Mirador,2.0,"Poco conocidos, económicos",0.021819151464038,30,0
+L0082,Nemocon,5.073282,-73.8744329,NEMOCON,Nemocón,Sabana Centro,atractivo,4.5,21.0,4.424280194440983,Atracción turística,2.0,"Poco conocidos, económicos",0.019975774145854084,60,0
+L0124,DIVERTRON,5.0186237,-74.0040896,ZIPAQUIRA,Zipaquirá,Sabana Centro,atractivo,4.3,20.0,4.366055625790139,Parque de atracciones,0.0,"Populares, en el centro",0.018066082871433565,60,20000

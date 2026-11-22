@@ -1,0 +1,3 @@
+metodo,variables,grupos,ruido,silueta
+K-Means (k=7),"valoración, popularidad, precio, accesibilidad",7,0 %,0.298
+DBSCAN (eps=0.5 km),coordenadas,7,30%,0.684

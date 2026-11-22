@@ -1,0 +1,32 @@
+escenario,orden,id,nombre,municipio,traslado_min,visita_min,entrada_cop,satisfaccion,lat,lon
+Zipaquirá · 4 h · $60 mil,1,L0128,Plaza de la Independencia,Zipaquirá,1.34,20,0,0.42841443120176975,5.0243267,-74.0052595
+Zipaquirá · 4 h · $60 mil,2,L0163,Parque La Floresta,Zipaquirá,1.76,40,0,0.11921638093766959,5.0265898,-74.0022582
+Zipaquirá · 4 h · $60 mil,3,L0162,Parque La Esperanza,Zipaquirá,2.79,40,0,0.2399226362988009,5.0206618,-74.0002254
+Zipaquirá · 4 h · $60 mil,4,L0130,Parque Principal Zipaquira,Zipaquirá,3.45,30,0,0.39960334113920537,5.0234233,-74.0039445
+Zipaquirá · 4 h · $60 mil,5,L0129,Plaza De Los Comuneros - Zipaquira Cundinamarca,Zipaquirá,0.01,20,0,0.07049780922719644,5.0233993,-74.0039988
+Zipaquirá · 4 h · $60 mil,6,L0164,Parque Villaveces,Zipaquirá,1.06,40,0,0.23638786897021008,5.0212581,-74.0063496
+Zipaquirá · 4 h · $60 mil,7,L0126,Plaza Ceremonial del Minero,Zipaquirá,2.82,20,0,0.12474768699462793,5.0189343,-74.0093615
+Zipaquirá · 4 h · $60 mil,8,CENTRO_ZIPAQUIRA,Regreso: Casco urbano de Zipaquirá,Zipaquirá,3.15,0,0,0.0,5.0221,-74.0058
+Zipaquirá · 4 h · $300 mil,1,L0128,Plaza de la Independencia,Zipaquirá,1.34,20,0,0.42841443120176975,5.0243267,-74.0052595
+Zipaquirá · 4 h · $300 mil,2,L0130,Parque Principal Zipaquira,Zipaquirá,1.58,30,0,0.39960334113920537,5.0234233,-74.0039445
+Zipaquirá · 4 h · $300 mil,3,L0019,Catedral De Sal de Zipaquirá,Zipaquirá,3.89,150,95000,0.9153681572134793,5.0187,-74.009917
+Zipaquirá · 4 h · $300 mil,4,L0126,Plaza Ceremonial del Minero,Zipaquirá,0.0,20,0,0.12474768699462793,5.0189343,-74.0093615
+Zipaquirá · 4 h · $300 mil,5,CENTRO_ZIPAQUIRA,Regreso: Casco urbano de Zipaquirá,Zipaquirá,3.15,0,0,0.0,5.0221,-74.0058
+Nemocón · 4 h · $120 mil,1,L0079,PARQUE DE LA SIETE LEYENDAS,Nemocón,0.85,40,0,0.04174123049679435,5.0667655,-73.8760889
+Nemocón · 4 h · $120 mil,2,L0083,Mina De Sal De Nemocón,Nemocón,1.36,120,50000,0.6959474798540571,5.063949,-73.8747495
+Nemocón · 4 h · $120 mil,3,L0084,Parque Principal de Nemocón,Nemocón,1.71,30,0,0.2624561075505531,5.066504,-73.8769184
+Nemocón · 4 h · $120 mil,4,CENTRO_NEMOCON,Regreso: Casco urbano de Nemocón,Nemocón,0.63,0,0,0.0,5.0679,-73.8781
+Sabana Centro · 8 h · $300 mil,1,L0128,Plaza de la Independencia,Zipaquirá,1.34,20,0,0.42841443120176975,5.0243267,-74.0052595
+Sabana Centro · 8 h · $300 mil,2,L0084,Parque Principal de Nemocón,Nemocón,20.3,30,0,0.2624561075505531,5.066504,-73.8769184
+Sabana Centro · 8 h · $300 mil,3,L0083,Mina De Sal De Nemocón,Nemocón,1.38,120,50000,0.6959474798540571,5.063949,-73.8747495
+Sabana Centro · 8 h · $300 mil,4,L0130,Parque Principal Zipaquira,Zipaquirá,20.17,30,0,0.39960334113920537,5.0234233,-74.0039445
+Sabana Centro · 8 h · $300 mil,5,L0164,Parque Villaveces,Zipaquirá,1.07,40,0,0.23638786897021008,5.0212581,-74.0063496
+Sabana Centro · 8 h · $300 mil,6,L0019,Catedral De Sal de Zipaquirá,Zipaquirá,2.82,150,95000,0.9153681572134793,5.0187,-74.009917
+Sabana Centro · 8 h · $300 mil,7,L0126,Plaza Ceremonial del Minero,Zipaquirá,0.0,20,0,0.12474768699462793,5.0189343,-74.0093615
+Sabana Centro · 8 h · $300 mil,8,CENTRO_ZIPAQUIRA,Regreso: Casco urbano de Zipaquirá,Zipaquirá,3.15,0,0,0.0,5.0221,-74.0058
+La Mesa · 8 h · $200 mil,1,L0006,Agroparque Sabio Mutis UNIMINUTO,La Mesa,18.25,120,20000,0.13182556332335504,4.625276,-74.429704
+La Mesa · 8 h · $200 mil,2,L0001,Salto de las Monjas,La Mesa,28.0,150,10000,0.19855637032241502,4.6902124,-74.4404344
+La Mesa · 8 h · $200 mil,3,L0076,Parque Lagos de Marsella,La Mesa,18.45,40,10000,0.027746975827736522,4.6361121,-74.4525757
+La Mesa · 8 h · $200 mil,4,L0010,Mirador Rincón Santo,La Mesa,2.68,30,0,0.021819151464038,4.6328353,-74.4636294
+La Mesa · 8 h · $200 mil,5,L0003,Parque Principal La Mesa,La Mesa,0.21,30,0,0.2681371553674816,4.6321652,-74.4631484
+La Mesa · 8 h · $200 mil,6,CENTRO_LAMESA,Regreso: Casco urbano de La Mesa,La Mesa,0.48,0,0,0.0,4.6304,-74.4627
