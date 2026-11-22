@@ -35,9 +35,9 @@ with t1:
     region = st.radio("Región", ["Sabana Centro", "Tequendama"], horizontal=True)
     M = F[F.provincia == region]
     if len(M):
-        fig = px.scatter_map(M, lat="lat", lon="lon", color="segmento", size=M["n_resenas"].clip(upper=5000) ** .5 + 3,
+        fig = px.scatter_mapbox(M, lat="lat", lon="lon", color="segmento", size=M["n_resenas"].clip(upper=5000) ** .5 + 3,
                              hover_name="nombre", hover_data={"Tipo": True, "estrellas": True, "n_resenas": True, "lat": False, "lon": False},
-                             zoom=11 if region == "Tequendama" else 10.5, height=520, map_style="carto-positron")
+                             zoom=11 if region == "Tequendama" else 10.5, height=520, mapbox_style="carto-positron")
         fig.update_layout(margin=dict(l=0, r=0, t=0, b=0), legend=dict(orientation="h", y=-0.05, title=None))
         st.plotly_chart(fig, width="stretch")
     P = d["clusters_perfil"].copy()
