@@ -59,13 +59,13 @@ with col1:
     seq = [ini] + ga["ruta"] + [ini]
     P = N.loc[seq, ["nombre", "lat", "lon", "municipio"]].reset_index(drop=True)
     fig = go.Figure()
-    fig.add_trace(go.Scattermap(lat=P.lat, lon=P.lon, mode="lines", line=dict(width=3, color="#2a78d6"), name="Recorrido", hoverinfo="skip"))
+    fig.add_trace(go.Scattermapbox(lat=P.lat, lon=P.lon, mode="lines", line=dict(width=3, color="#2a78d6"), name="Recorrido", hoverinfo="skip"))
     otros = N[N.index.isin(cand) & ~N.index.isin(ga["ruta"])]
-    fig.add_trace(go.Scattermap(lat=otros.lat, lon=otros.lon, mode="markers", marker=dict(size=8, color="#b5b4af"), text=otros.nombre, name="No incluidos"))
-    fig.add_trace(go.Scattermap(lat=P.lat[1:-1], lon=P.lon[1:-1], mode="markers+text", marker=dict(size=16, color="#eb6834"),
+    fig.add_trace(go.Scattermapbox(lat=otros.lat, lon=otros.lon, mode="markers", marker=dict(size=8, color="#b5b4af"), text=otros.nombre, name="No incluidos"))
+    fig.add_trace(go.Scattermapbox(lat=P.lat[1:-1], lon=P.lon[1:-1], mode="markers+text", marker=dict(size=16, color="#eb6834"),
                                 text=[str(i) for i in range(1, len(P) - 1)], textfont=dict(color="white"), hovertext=P.nombre[1:-1], name="Paradas"))
-    fig.add_trace(go.Scattermap(lat=[P.lat[0]], lon=[P.lon[0]], mode="markers", marker=dict(size=14, color="#1f1f1f"), text=[P.nombre[0]], name="Salida"))
-    fig.update_layout(map=dict(style="carto-positron", center=dict(lat=P.lat.mean(), lon=P.lon.mean()), zoom=11.5 if len(muns) == 1 else 10.5),
+    fig.add_trace(go.Scattermapbox(lat=[P.lat[0]], lon=[P.lon[0]], mode="markers", marker=dict(size=14, color="#1f1f1f"), text=[P.nombre[0]], name="Salida"))
+    fig.update_layout(mapbox=dict(style="carto-positron", center=dict(lat=P.lat.mean(), lon=P.lon.mean()), zoom=11.5 if len(muns) == 1 else 10.5),
                       margin=dict(l=0, r=0, t=0, b=0), height=520, legend=dict(orientation="h", y=-0.02))
     st.plotly_chart(fig, width="stretch")
 with col2:
